@@ -1,0 +1,25 @@
+# 🍱 Food Delivery App
+
+This is a mobile UI/UX design project for a food delivery app consisting of 3 screens. The app focuses on user-friendly navigation and an easy ordering experience. Designed with a clean layout to help users browse food items, view details, and place orders efficiently.
+
+## 📱 Screens
+
+- Home Screen (featured food & categories)
+- Menu/Product Details Screen
+- Cart/Checkout Screen
+
+## 🛠️ Tools Used
+
+- Figma
+
+## 🔗 Figma File
+
+[Click here to view the design on Figma](https://www.figma.com/design/8xs5DBmFLHHV5IykZo6YDk/Food-Delivery-App?node-id=0-1&t=4shpzT4gwIG65JTs-1) <!-- Replace this with your actual Figma file link -->
+
+## 🖼️ Preview
+
+![Food Delivery App - Home](home-screen.png)
+![Food Delivery App - Menu](menu-screen.png)
+![Food Delivery App - Cart](cart-screen.png)
+<!-- Make sure these image filenames match what you upload -->
+
